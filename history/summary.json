@@ -4,19 +4,17 @@
     "url": "https://vektatiq.com",
     "icon": "https://icons.duckduckgo.com/ip3/vektatiq.com.ico",
     "slug": "vektatiq",
-    "status": "down",
-    "uptime": "74.09%",
-    "uptimeDay": "74.09%",
-    "uptimeWeek": "74.09%",
-    "uptimeMonth": "74.09%",
-    "uptimeYear": "74.09%",
-    "time": 532,
-    "timeDay": 532,
-    "timeWeek": 532,
-    "timeMonth": 532,
-    "timeYear": 532,
-    "dailyMinutesDown": {
-      "2026-07-22": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 650,
+    "timeDay": 650,
+    "timeWeek": 650,
+    "timeMonth": 650,
+    "timeYear": 650,
+    "dailyMinutesDown": {}
   }
 ]
